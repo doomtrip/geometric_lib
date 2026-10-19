@@ -1,1 +1,2 @@
 # Geometric lib
+Documentation updated
